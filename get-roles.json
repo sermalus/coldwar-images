@@ -1,0 +1,78 @@
+{
+  "content": "",
+  "tts": false,
+  "flags": 32768,
+  "embeds": [],
+  "components": [
+    {
+      "id": 334772343,
+      "type": 17,
+      "accent_color": 0,
+      "components": [
+        {
+          "id": 100000002,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/2-GET-ROLES.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 57709574,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653861,
+          "type": 10,
+          "content": "### 🪖 Faction Allegiance\nSelect your side using the options below to display your preference across the server:\n> 🟦 **NATO** • 🟥 **PACT**"
+        },
+        {
+          "id": 57709575,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653862,
+          "type": 10,
+          "content": "### 🔔 Community Notifications\nToggle notification roles for specific updates and events:\n> 💸 **Giveaways** • 🔥 **Development** • 💎 **Testing**"
+        },
+        {
+          "id": 279830154,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 826086272,
+          "type": 10,
+          "content": "-# 💡 *Members at **Level 10+** can claim the Testing Role to participate in pre-release testing sessions.*"
+        },
+        {
+          "id": 700518053,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/1-MAIN.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 918234101,
+          "type": 10,
+          "content": "-# Made by @sermalus • Render by @me3r_dev"
+        }
+      ]
+    }
+  ],
+  "actions": {}
+}
