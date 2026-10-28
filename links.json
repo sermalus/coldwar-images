@@ -15,7 +15,7 @@
           "items": [
             {
               "media": {
-                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/2-LINKS.png"
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/halloween/halloween-links.png"
               },
               "spoiler": false
             }
@@ -121,7 +121,7 @@
           "items": [
             {
               "media": {
-                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/1-MAIN.png"
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/halloween/halloween-main.png"
               },
               "spoiler": false
             }
