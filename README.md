@@ -88,8 +88,8 @@ Once the preview loads, use the controls highlighted in the screenshot below:
 
 ## Credits & License
 
-* **Graphic Design & Layout:** `@sermalus` (`@mrsermalus`)
+* **Graphic Design & Layout:** `@sermalus`
 * **3D Renders:** `@me3r_dev`
 
-**Copyright © 2026 sermalus. All Rights Reserved.**  
+**Copyright © 2026. All Rights Reserved.**  
 All graphic assets, renders, and designs in this repository are exclusive intellectual property. Unauthorized copying, modification, or redistribution is strictly prohibited.
