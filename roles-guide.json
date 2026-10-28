@@ -1,0 +1,67 @@
+{
+  "content": "",
+  "tts": false,
+  "flags": 32768,
+  "embeds": [],
+  "components": [
+    {
+      "id": 334772343,
+      "type": 17,
+      "accent_color": 0,
+      "components": [
+        {
+          "id": 100000001,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/ROLES%20GUIDE.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 57709574,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653861,
+          "type": 10,
+          "content": "### 🛠️ Development Team\n> <@&1105954610230870026> • <@&1311712832038895708> • <@&1105954750756819106>\nCore developers responsible for scripting, modeling, map creation, and overall game mechanics.\n\n### 🛡️ Moderation Team\n> <@&1105954420119851159> • <@&1105953765825200258> • <@&1547956786831826985> • <@&1105953660573327500> • <@&1169413366108921906>\nStaff members managing report tickets, reviewing ban appeals, and moderating the game and Discord server.\n\n### 🎖️ Contributors\n> <@&1171948752592973947> • <@&1163045717435240468>\nTrusted members who actively contribute assets, research, or development support to the project.\n\n### 🧪 Testers & Research\n> <@&1530617248476303431> • <@&1525611746537115728>\n**Testers:** Playtest upcoming features, identify bugs, and refine updates prior to public release.\n> <@&1515108357621547228>\n**Research Team:** Gather historical and technical data to maintain maximum accuracy.\n\n### 🎥 Content Creators\n> <@&1178005927945834586>\nMedia creators, streamers, and artists showcasing Cold War.\n-# 📌 [View Content Creator Requirements](https://discord.com/channels/1105948808388550746/1547234135347826829/1555256411313672264)\n\n### 🚩 Faction Leadership\n> <@&1257809977222107217> — **Faction Leaders:** Command official in-game factions.\n> <@&1257957389915652157> — **Faction Propagandist:** Focus on recruitment and faction promotion."
+        },
+        {
+          "id": 279830154,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 826086273,
+          "type": 10,
+          "content": "### 📈 Level & Booster Progression Perks\n\n• <@&1200116236445556746> — Ability to add reactions & access to <#1167367909065097287>.\n• <@&1200116310030438521> — Embed permissions in <#1411779385085792398> & access to <#1170766537334984916>.\n• <@&1200116353265303655> — Embed permissions in general channels, create public threads, use soundboard, and send voice messages.\n• <@&1200116396231757865> — External stickers, external emojis, and create polls.\n• <@&1200116435574333440> — Unique role emoji, ability to change your nickname, and slowmode bypass.\n• <@&1111371093316472902> — All perks listed above (excluding slowmode bypass)."
+        },
+        {
+          "id": 700518053,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/MAIN.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 918234101,
+          "type": 10,
+          "content": "-# Made by <@1374765564538523685> • Render by <@902371555374411776>"
+        }
+      ]
+    }
+  ],
+  "actions": {}
+}

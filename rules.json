@@ -1,0 +1,67 @@
+{
+  "content": "",
+  "tts": false,
+  "flags": 32768,
+  "embeds": [],
+  "components": [
+    {
+      "id": 334772343,
+      "type": 17,
+      "accent_color": 0,
+      "components": [
+        {
+          "id": 100000001,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/RULES.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 57709574,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653861,
+          "type": 10,
+          "content": "**1.** Follow [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).\n\n**2.** NSFW/NSFL (gore) content is strictly prohibited. This covers cropped pornography and suggestive imagery. DMs reported to staff by victims are also included.\n> **2.1.** Keep all topics SFW. Sexually explicit remarks, humor, and conversations are forbidden. Inappropriate or sensitive topics are heavy offenses.\n> **2.2.** No inappropriate profile content (avatars, statuses, links). If staff asks you to modify your profile and you refuse, you will be banned.\n\n**3.** Hate against race, religion, and sexual identity is prohibited. This includes all related slurs.\n> **3.1.** Discussing or posting hate group-related figures and symbols is strictly prohibited.\n\n**4.** Behave decently to other members. Extreme harassment or hate in public channels or DMs is prohibited.\n\n**5.** No political, religious, or divisive discussions. This server is strictly for Cold War and topics close to it (and off-topic in designated channels).\n> **5.1.** No discussions of current world conflicts.\n\n**6.** Stay on topic and use correct channels.\n\n**7.** 'Ragebaiting' someone to the point they break rules is punishable on your end.\n> **7.1.** Purposefully causing needless drama in chat falls under this rule. Know when to stop.\n\n**8.** No spam.\n\n**9.** Staff can warn, mute, or ban you even if you believe you have done nothing wrong. Staff will step in to shut down disruptive, toxic, or offensive behavior.\n> **9.1.** Staff decisions are final and must be appealed via tickets, not debated in public channels.\n\n**10.** No unrelated ads or shilling.\n> **10.1.** Don't send random links.\n> **10.2.** Ads about Cold War-related groups/channels are permitted, but **only 1x per week**."
+        },
+        {
+          "id": 279830154,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 826086272,
+          "type": 10,
+          "content": "-# ⚠️ Breaking rules can get you muted, kicked, or banned. You can only successfully appeal a mute/ban **once**."
+        },
+        {
+          "id": 700518053,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/MAIN.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 918234101,
+          "type": 10,
+          "content": "-# Made by <@1374765564538523685> • Render by <@902371555374411776>"
+        }
+      ]
+    }
+  ],
+  "actions": {}
+}

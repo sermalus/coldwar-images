@@ -1,0 +1,139 @@
+{
+  "content": "",
+  "tts": false,
+  "flags": 32768,
+  "embeds": [],
+  "components": [
+    {
+      "id": 334772343,
+      "type": 17,
+      "accent_color": 0,
+      "components": [
+        {
+          "id": 100000003,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/LINKS.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 57709574,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653861,
+          "type": 10,
+          "content": "### 🎮 Game Branches\nAccess the main game or join the public testing server *(Testing requires 16+ age group)*."
+        },
+        {
+          "id": 600000001,
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Play Cold War",
+              "emoji": {
+                "name": "🎮"
+              },
+              "url": "https://www.roblox.com/games/13687899540/Cold-War"
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Public Testing",
+              "emoji": {
+                "name": "🧪"
+              },
+              "url": "https://www.roblox.com/games/18264062374/Cold-War"
+            }
+          ]
+        },
+        {
+          "id": 57709575,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653862,
+          "type": 10,
+          "content": "### 🌐 Community & Resources\nFaction Discord hub, development roadmap, official wiki, and Weapon Stats Database by @zeuszaruba."
+        },
+        {
+          "id": 600000002,
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Faction Hub",
+              "emoji": {
+                "name": "🚩"
+              },
+              "url": "https://discord.gg/BfqXFVNT5A"
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Map Roadmap",
+              "emoji": {
+                "name": "🗺️"
+              },
+              "url": "https://trello.com/b/05Ee4uV5/cold-war-map-roadmap-revamp"
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Official Wiki",
+              "emoji": {
+                "name": "📚"
+              },
+              "url": "https://cold-war-roblox.fandom.com/wiki/Cold_War_Roblox_Wiki"
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Weapon Stats",
+              "emoji": {
+                "name": "📊"
+              },
+              "url": "https://coldwarrobloxwiki.ddns.net/"
+            }
+          ]
+        },
+        {
+          "id": 279830154,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 700518053,
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/MAIN.png"
+              },
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "id": 918234101,
+          "type": 10,
+          "content": "-# Made by <@1374765564538523685> • Render by <@902371555374411776>"
+        }
+      ]
+    }
+  ],
+  "actions": {}
+}
