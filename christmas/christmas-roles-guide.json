@@ -15,7 +15,7 @@
           "items": [
             {
               "media": {
-                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/2-ROLES%20GUIDE.png"
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/christmas/christmas-roles-guide.png"
               },
               "spoiler": false
             }
@@ -49,7 +49,7 @@
           "items": [
             {
               "media": {
-                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/1-MAIN.png"
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/christmas/christmas-main.png"
               },
               "spoiler": false
             }
@@ -58,7 +58,7 @@
         {
           "id": 918234101,
           "type": 10,
-          "content": "-# Made by @sermalus • Render by @me3r_dev"
+          "content": "-# Made by <@1374765564538523685> • Render by <@902371555374411776>"
         }
       ]
     }
