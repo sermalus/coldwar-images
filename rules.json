@@ -15,7 +15,7 @@
           "items": [
             {
               "media": {
-                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/RULES.png"
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/assets/RULES.png?v=2"
               },
               "spoiler": false
             }
@@ -30,7 +30,18 @@
         {
           "id": 445653861,
           "type": 10,
-          "content": "**1.** Follow [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).\n\n**2.** NSFW/NSFL (gore) content is strictly prohibited. This covers cropped pornography and suggestive imagery. DMs reported to staff by victims are also included.\n> **2.1.** Keep all topics SFW. Sexually explicit remarks, humor, and conversations are forbidden. Inappropriate or sensitive topics are heavy offenses.\n> **2.2.** No inappropriate profile content (avatars, statuses, links). If staff asks you to modify your profile and you refuse, you will be banned.\n\n**3.** Hate against race, religion, and sexual identity is prohibited. This includes all related slurs.\n> **3.1.** Discussing or posting hate group-related figures and symbols is strictly prohibited.\n\n**4.** Behave decently to other members. Extreme harassment or hate in public channels or DMs is prohibited.\n\n**5.** No political, religious, or divisive discussions. This server is strictly for Cold War and topics close to it (and off-topic in designated channels).\n> **5.1.** No discussions of current world conflicts.\n\n**6.** Stay on topic and use correct channels.\n\n**7.** 'Ragebaiting' someone to the point they break rules is punishable on your end.\n> **7.1.** Purposefully causing needless drama in chat falls under this rule. Know when to stop.\n\n**8.** No spam.\n\n**9.** Staff can warn, mute, or ban you even if you believe you have done nothing wrong. Staff will step in to shut down disruptive, toxic, or offensive behavior.\n> **9.1.** Staff decisions are final and must be appealed via tickets, not debated in public channels.\n\n**10.** No unrelated ads or shilling.\n> **10.1.** Don't send random links.\n> **10.2.** Ads about Cold War-related groups/channels are permitted, but **only 1x per week**."
+          "content": "### 💬 Discord Server Rules\n\n**1.** Follow [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).\n\n**2.** NSFW/NSFL (gore) content is strictly prohibited. This covers cropped pornography and suggestive imagery. DMs reported to staff by victims are also included.\n> **2.1.** Keep all topics SFW. Sexually explicit remarks, humor, and conversations are forbidden. Inappropriate or sensitive topics are heavy offenses.\n> **2.2.** No inappropriate profile content (avatars, statuses, links). If staff asks you to modify your profile and you refuse, you will be banned.\n\n**3.** Hate against race, religion, and sexual identity is prohibited. This includes all related slurs.\n> **3.1.** Discussing or posting hate group-related figures and symbols is strictly prohibited.\n\n**4.** Behave decently to other members. Extreme harassment or hate in public channels or DMs is prohibited.\n\n**5.** No political, religious, or divisive discussions. This server is strictly for Cold War and topics close to it (and off-topic in designated channels).\n> **5.1.** No discussions of current world conflicts.\n\n**6.** Stay on topic and use correct channels.\n\n**7.** 'Ragebaiting' someone to the point they break rules is punishable on your end.\n> **7.1.** Purposefully causing needless drama in chat falls under this rule. Know when to stop.\n\n**8.** No spam.\n\n**9.** Staff can warn, mute, or ban you even if you believe you have done nothing wrong. Staff will step in to shut down disruptive, toxic, or offensive behavior.\n> **9.1.** Staff decisions are final and must be appealed via tickets, not debated in public channels.\n\n**10.** No unrelated ads or shilling.\n> **10.1.** Don't send random links.\n> **10.2.** Ads about Cold War-related groups/channels are permitted, but **only 1x per week**."
+        },
+        {
+          "id": 279830150,
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "id": 445653862,
+          "type": 10,
+          "content": "### 🎮 In-Game Rules\n\n**1. Exploiting:** ESP, Fly Hacks, any of the sort. Also any form of fast flags that remove objects (like fog, which gives you leverage), or crosshairs that track your weapon's aim and bullet drop-off.\n\n**2. Griefing:** Blocking entries (like spawn) with a vehicle in order to disrupt gameplay. Ramming into other vehicles to make them go out of control/get them killed. In general: hampering gameplay of your teammates, giving the other team unfair leverage/advantages.\n\n**3. Bug Abuse:** Bug abusing that gives you unfair advantages/leverage or disrupts gameplay. Depending on the severity of the bug you're abusing, it can result in anything from small temporary bans to permanent bans if extremely destructive/ruining servers.\n> **3.1. Promoting Bug Abuse:** Promoting bug abusing also falls directly onto you, with the same rule application as the person/people who abused the bug. Applies to the Discord server too.\n\n**4. TOS-Violating / NSFW Avatars:** We follow a strict avatar policy within Cold War. No revealing/skimpy clothing. No chest accessories. No belly/boob shading. No fetish material. No depictions of predators or inappropriate figures (e.g., Epstein/Hitler). In general, nothing that is \"Goon-wear\" or problematic material.\n> **4.1. TOS-Violating Usernames / Display Names:** Slur bypasses, NSFW jokes, extremist references."
         },
         {
           "id": 279830154,
@@ -49,7 +60,7 @@
           "items": [
             {
               "media": {
-                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/main/assets/MAIN.png"
+                "url": "https://raw.githubusercontent.com/sermalus/coldwar-images/refs/heads/main/assets/MAIN.png?v=2"
               },
               "spoiler": false
             }
